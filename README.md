@@ -28,5 +28,5 @@ docker run -p 2163:2163 -v $(pwd):/data \
   -e SMTP_USER="john.doe@gmail.com" \
   -e SMTP_PASS="xyz" \
   -e MAILRG_TOKEN="CorrectHorseBatteryStaple" \
-  mailrg
+  germanorizzo/mailrg:latest
 ```
