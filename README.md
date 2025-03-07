@@ -1,3 +1,5 @@
+> This project is archived. While it's quite working, it's of no use to me anymore and I cant' keep up with development.
+
 # MailRG
 
 This app implements a server that opens a POST endpoint that, when invoked with a JSON that describes an email message, sends the message.
